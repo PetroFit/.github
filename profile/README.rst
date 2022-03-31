@@ -1,7 +1,4 @@
 
-.. image:: https://github.com/PetroFit/petrofit/raw/main/docs/images/petrofit_full_logo.png
-    :width: 100%
-
 ===============================
 Welcome to the PetroFit Project
 ===============================
