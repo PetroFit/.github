@@ -16,4 +16,5 @@ Useful Links
 - `PetroFit documentation <https://petrofit.readthedocs.io/en/latest/>`_: Installation and user manual.
 - `Community discussions <https://github.com/PetroFit/petrofit/discussions>`_: User questions-and-answers, announcements, and show-and-tell.
 - `Example Jupyter notebooks <https://github.com/PetroFit/petrofit_notebooks>`_: Example cookbooks and demos.
+- `Open an issue <https://github.com/PetroFit/petrofit/issues>`_ : Request features or report bugs.
 - `Code of conduct <https://github.com/PetroFit/petrofit/blob/main/CODE_OF_CONDUCT.md>`_ : Contributor covenant code of conduct.
