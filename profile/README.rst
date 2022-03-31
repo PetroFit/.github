@@ -17,5 +17,3 @@ Useful Links
 - `Community discussions <https://github.com/PetroFit/petrofit/discussions>`_: User questions-and-answers, announcements, and show-and-tell.
 - `Example Jupyter notebooks <https://github.com/PetroFit/petrofit_notebooks>`_: Example cookbooks and demos.
 - `Code of conduct <https://github.com/PetroFit/petrofit/blob/main/CODE_OF_CONDUCT.md>`_ : Contributor covenant code of conduct.
-- `Astropy  <https://www.astropy.org>`_: The Astropy Project.
-- `Photutils <https://photutils.readthedocs.io/en/stable/>`_: Photutils documentation.
