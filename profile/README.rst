@@ -3,7 +3,7 @@
 Welcome to the PetroFit Project
 ===============================
 
-The PetroFit Project is an open-source effort to provide end-to-end tools for making accurate photometric measurements,
+The PetroFit Project is an open-source effort to develop end-to-end tools for making accurate photometric measurements,
 estimating morphological properties, and fitting 2D models to galaxy images. The goal of the
 `PetroFit  <https://github.com/PetroFit/petrofit>`_ Python package,
 which is based on  `Astropy  <https://www.astropy.org>`_  and
