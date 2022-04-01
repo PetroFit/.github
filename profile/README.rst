@@ -18,3 +18,5 @@ Useful Links
 - `Example Jupyter notebooks <https://github.com/PetroFit/petrofit_notebooks>`_: Example cookbooks and demos.
 - `Open an issue <https://github.com/PetroFit/petrofit/issues/new>`_ : Request features or report bugs.
 - `Code of conduct <https://github.com/PetroFit/petrofit/blob/main/CODE_OF_CONDUCT.md>`_ : Contributor covenant code of conduct.
+
+**Maintainers:** `robelgeda <https://github.com/robelgeda>`_ and `crawfordsm <https://github.com/crawfordsm>`_
