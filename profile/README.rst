@@ -7,7 +7,7 @@ The PetroFit Project is an open-source effort to develop end-to-end tools for ma
 estimating morphological properties, and fitting 2D models to galaxy images. The goal of the
 `PetroFit  <https://github.com/PetroFit/petrofit>`_ Python package,
 which is based on  `Astropy  <https://www.astropy.org>`_  and
-`Photutils  <https://photutils.readthedocs.io/en/stable/>`_, is to provide such tools for the astronomical community.
+`Photutils  <https://photutils.readthedocs.io/en/stable/>`_, is to provide specialized tools for the astronomical community.
 
 Useful Links
 ------------
